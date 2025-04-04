@@ -1,2 +1,1 @@
-# Curso alura
-segue codigo pra criação do site
+# Curso aluraSegue exercicios de Data Scienc
