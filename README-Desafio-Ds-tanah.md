@@ -39,3 +39,5 @@ Através de dados reais de vendas das quatro lojas, buscamos identificar a loja 
 
 
 ---
+
+### Feito por Tainah Torres 
